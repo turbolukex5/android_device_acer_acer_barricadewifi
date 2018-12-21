@@ -1,0 +1,1 @@
+android_device_acer_acer_barricadewifi
